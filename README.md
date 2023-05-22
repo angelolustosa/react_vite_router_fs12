@@ -63,4 +63,14 @@ Deve-se criar o repositório no GitHub
 ```js
 git remote add origin https://github.com/angelolustosa/react_vite_router_fs12.git
 ```
-### 2.3. Repetir a partir do item 2 - Adiconar as alterações que serão enviadas.
+
+### 2.3 - Setar o link da branch com o link do repositório
+
+Deve-se criar o repositório no GitHub
+
+```js
+git push --set-upstream origin master
+```
+![image](https://github.com/angelolustosa/react_vite_router_fs12/assets/15823158/36ab4207-6402-4ca5-961e-42b7bc279714)
+
+### 2.4. Repetir a partir do item 2 - Adiconar as alterações que serão enviadas.
