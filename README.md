@@ -84,4 +84,4 @@ git push --set-upstream origin master
 Fonte: [Deploying Vite / React App to GitHub Pages](https://dev.to/rashidshamloo/deploying-vite-react-app-to-github-pages-35hf)
 
 ## Projeto vite no Vercel
-Fonte: [Deploying Vite / React App to GitHub Pages](https://dev.to/rashidshamloo/deploying-vite-react-app-to-github-pages-35hf)
+Fonte: [Deploy React App With Vercel](https://dev.to/rashidshamloo/deploying-vite-react-app-to-github-pages-35hf)
