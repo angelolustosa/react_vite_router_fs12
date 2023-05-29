@@ -18,6 +18,15 @@ export const Login = () => {
         }
     }
 
+    const handleChange = event => {
+        let key = event.target.id
+        let value = event.target.value
+
+        setLogin({ ...login, [key]: value })
+
+        console.log(key, value);
+    }
+
     return (
         <div>
             <main className="form-signin w-100 m-auto">
@@ -32,6 +41,7 @@ export const Login = () => {
                             id="email"
                             placeholder="name@example.com"
                             value={login.email || ''}
+                            onChange={handleChange}
                         />
                         <label htmlFor="email">Email</label>
                     </div>
@@ -42,6 +52,7 @@ export const Login = () => {
                             id="senha"
                             placeholder="Senha"
                             value={login.senha || ''}
+                            onChange={handleChange}
                         />
                         <label htmlFor="senha">Senha</label>
                     </div>
