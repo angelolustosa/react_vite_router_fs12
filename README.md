@@ -74,3 +74,14 @@ git push --set-upstream origin master
 ![image](https://github.com/angelolustosa/react_vite_router_fs12/assets/15823158/36ab4207-6402-4ca5-961e-42b7bc279714)
 
 ### 2.4. Repetir a partir do item 2 - Adiconar as alterações que serão enviadas.
+
+
+
+
+# Deploy 
+
+## Projeto vite no GitHub Pages
+Fonte: [Deploying Vite / React App to GitHub Pages](https://dev.to/rashidshamloo/deploying-vite-react-app-to-github-pages-35hf)
+
+## Projeto vite no Vercel
+Fonte: [Deploying Vite / React App to GitHub Pages](https://dev.to/rashidshamloo/deploying-vite-react-app-to-github-pages-35hf)
